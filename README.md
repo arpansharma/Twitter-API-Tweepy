@@ -1,6 +1,9 @@
 # Twitter-API-Tweepy
 Experimenting with Tweepy !
 
+## How To Authenticate a Python Application with Twitter using Tweepy on Ubuntu 14.04
+https://www.digitalocean.com/community/tutorials/how-to-authenticate-a-python-application-with-twitter-using-tweepy-on-ubuntu-14-04
+
 sudo apt-get update && sudo apt-get upgrade
 
 #### installing Git on your Linux distribution
